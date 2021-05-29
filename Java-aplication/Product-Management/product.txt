@@ -1,0 +1,3 @@
+S112, Son 3CE, MY121, 350.0, 14
+T121, Duong nao, TPCN121, 125.0, 10
+N121, Nuoc Hoa Hong, MY121, 50.0, 5
