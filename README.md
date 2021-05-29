@@ -1,5 +1,5 @@
 # Semesters-Projects
-### I overview my knowledge into some projects at my university.
+### I overview my knowledge in some projects at my university.
 * C application: 
   + Snake game.
 * Java applications: 
@@ -7,7 +7,7 @@
   + User management
   + Product management.
 * Data structures and algorithms with python: 
-  + Dircommand with recursion (Java)
+  + Dir command with recursion (Java)
   + Sorting algorithms
   +   Updating...
 * Math funny coding: 
