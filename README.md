@@ -1,5 +1,5 @@
 # Semesters-Projects
-### I overview my knowledge in some projects at my university.
+### Overview my knowledge in some projects at my university.
 * C application: 
   + Snake game.
 * Java applications: 
