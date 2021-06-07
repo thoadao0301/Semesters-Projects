@@ -9,6 +9,7 @@
 * Data structures and algorithms with python: 
   + Dir command with recursion (Java)
   + Sorting algorithms
+  + Red-Black tree
   +   Updating...
 * Math funny coding: 
   + Bandt 12-gon problem
